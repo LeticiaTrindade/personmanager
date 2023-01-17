@@ -9,7 +9,7 @@
 
 ### Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software?
 
-Para garantir a qualidade de software baseio-me no conceito do SCRUM INVEST onde a nova implementação deve seguir os seguintes critérios: Ser independente, negociável, valiosa, estimável, pequena e testável. Os testes que competem à equipe de engenharia são: testes unitários, de integração e funcionais.
+Para garantir a qualidade de software baseio-me no conceito do SCRUM INVEST onde a nova implementação deve seguir os seguintes critérios: Ser independente, negociável, valiosa, estimável, pequena e testável. Os testes estáticos que competem à equipe de engenharia são: testes unitários, de integração e funcionais, e em conjunto com a revisão por pares(Code Review) podem detectar bugs, codes Smells e quebra de padrões de projeto.
 
 ### Em qual etapa da implementação você considera a qualidade de software?
 
